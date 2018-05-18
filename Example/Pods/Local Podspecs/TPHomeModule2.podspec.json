@@ -1,0 +1,22 @@
+{
+  "name": "TPHomeModule2",
+  "version": "0.1.0",
+  "summary": "A short description of TPHomeModule2.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/zhufeng19940210/TPHomeModule2",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "zhufeng19940210": "358244144@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/zhufeng19940210/TPHomeModule2.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "TPHomeModule2/Classes/**/*"
+}

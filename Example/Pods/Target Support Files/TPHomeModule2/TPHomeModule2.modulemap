@@ -1,0 +1,6 @@
+framework module TPHomeModule2 {
+  umbrella header "TPHomeModule2-umbrella.h"
+
+  export *
+  module * { export * }
+}
