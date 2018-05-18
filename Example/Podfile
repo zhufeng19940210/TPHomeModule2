@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'TPHomeModule2_Example' do
+  pod 'TPHomeModule2', :path => '../'
+
+  target 'TPHomeModule2_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
